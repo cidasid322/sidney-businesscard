@@ -10,6 +10,7 @@
 | `intro.mp4` | 個人簡介影片（直式，20 秒） |
 | `setv.mp4` | 三立集團企業日形象影片（橫式，720p，2 分 13 秒） |
 | `setv_poster.jpg` | 三立影片封面 |
+| （YouTube 內嵌） | 「AI 影像服務」分頁：創造智能 YouTube 影片 `v_shQAC90Uo`，點擊後才載入 |
 | `sidney-lin.vcf` | 「存入通訊錄」下載的聯絡人檔（含大頭照） |
 | `_headers` | Netlify 設定：讓手機正確辨識 .vcf 通訊錄檔 |
 
